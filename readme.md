@@ -14,7 +14,7 @@ It's a part of the project and includes only design part here.
 - **Cookie Policy:** Cookie Policy page
 - **FAQ Page:** FAQ Page
 - **How it works:** How it works page
-- **HImprint:** impring page
+- **Imprint:** Imprint page
 
 ## Technologies Used ( webpage design part )
 - HTML5, CSS3, JavaScript
